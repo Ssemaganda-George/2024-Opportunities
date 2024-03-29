@@ -19,7 +19,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  ----------------
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
  
-- [ ] Story3 Hackathon - https://story3.hackerearth.com/ - 27th JAN
 - [ ] UNBS ARSO Essay - 29th FEB
 - [X] GMD Gender End GBV Essay - 15TH DEC 2023
 - [ ] The Liveability Challenge 2024 - https://shorturl.at/cdvQ6 - Feb 9th
