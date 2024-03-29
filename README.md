@@ -20,8 +20,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
  
 - [ ] UNBS ARSO Essay - 29th FEB
-- [X] GMD Gender End GBV Essay - 15TH DEC 2023
-- [ ] The Liveability Challenge 2024 - https://shorturl.at/cdvQ6 - Feb 9th
 - [x] The Headstream Accelerator - https://shorturl.at/bqsDT - JAN 24TH
 - [ ] Hacklab Foundation - https://connect.hacklabfoundation.org/ - 
 - [ ] FINISH Mondial SanTech Hackathon - https://shorturl.at/ghiBP - FEB 28th
