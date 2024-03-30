@@ -18,9 +18,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] READ - https://tinyurl.com/mwy94zu4 MTN
 - [ ]  ----------------
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
- 
-- [ ] UNBS ARSO Essay - 29th FEB
-- [x] The Headstream Accelerator - https://shorturl.at/bqsDT - JAN 24TH
 - [ ] Hacklab Foundation - https://connect.hacklabfoundation.org/ - 
 - [ ] FINISH Mondial SanTech Hackathon - https://shorturl.at/ghiBP - FEB 28th
 - [ ] Clean Cooking Proposals UK Embassy - https://shorturl.at/uxB45 -JAN 12
@@ -34,7 +31,7 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] No-Code Hackathon - https://no-code-hackathon.devpost.com/ - FEB 18
 - [ ] Web5: Building the Decentralized Web - https://web5.devpost.com/ - JAN 10
 - [ ] Aleph Zero - https://hack.alephzero.org/ - JAN 10
-- [x] Imagine Cup - 24th JAN
+
 - [ ] GitLab Innovation Pitch Competition - https://gitlab.devpost.com/ Feb 26th
 - [ ] Learn it Global H - https://learn-it-global-hackathon.devpost.com/ - Feb 19th
 - [ ] MIT Solver - APRIL 18 https://news.mak.ac.ug/2024/02/mit-solves-2024-global-challenges/
