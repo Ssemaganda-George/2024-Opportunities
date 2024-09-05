@@ -16,7 +16,6 @@ My Opportunities, Hackathons, Tech Events Tracker Repo
 - [ ] SOBTC PROPOSAL - 30 MAR
 - [ ] https://foundershub.startups.microsoft.com/ 5 APR
 - [ ] READ - https://tinyurl.com/mwy94zu4 MTN
-- [ ]  ----------------
 - [ ]  Chatham House Mo Ibrahim Foundation Academy Fellowship 2025
 - [ ] Hacklab Foundation - https://connect.hacklabfoundation.org/ - 
 - [ ] FINISH Mondial SanTech Hackathon - https://shorturl.at/ghiBP - FEB 28th
